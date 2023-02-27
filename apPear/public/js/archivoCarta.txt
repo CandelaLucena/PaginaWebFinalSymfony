@@ -1,0 +1,12 @@
+   <div class=" col-12 col-sm-6 col-lg-3 col-xl-2 cartita">
+      <div class="card mt-3 m-1">
+         <img src="../img/uno.png" class="card-img-top" alt="...">
+         <div class="card-body">
+            <h5 class="card-title">Gatito</h5>
+            <p class="card-text">Descripción: esto es un gatito</p>
+            <button  class="rounded btn btn-secondary irDescripcion" type="button">Abrir</button>
+            <button  class="rounded btn btn-secondary irEdicion" type="button">Editar</button>
+            <button  class="rounded btn btn-secondary  btn-sm mt-1 irBorrar" type="button">Borrar</button>
+         </div>
+      </div>
+   </div>
